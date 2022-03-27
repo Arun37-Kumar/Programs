@@ -44,10 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Basic Programs\calculations.cs" />
+    <Compile Include="Basic Programs\Even_Odd.cs" />
     <Compile Include="Basic Programs\First_Program.cs" />
     <Compile Include="Basic Programs\Increment_Decrement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sequence_Selection_Loop\NaturalNumberAddition.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

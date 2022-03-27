@@ -16,9 +16,14 @@ namespace RFP_131_BASIC_PROGRAMS
             Basic_Programs.First_Program.FirstProgram();
             Basic_Programs.calculations.Calculations();
             Basic_Programs.Increment_Decrement.increment_decrement();
+            Basic_Programs.Even_Odd.checkEvenOrOdd(34);
+            Basic_Programs.Even_Odd.checkEvenOrOdd(33);
             Console.ReadLine();
 
-
+            // Sequence, Selection & Loop
+           int SumOfNaturalNumbers = Sequence_Selection_Loop.NaturalNumberAddition.Add();
+           Console.WriteLine(SumOfNaturalNumbers);
+            Console.ReadLine();
         }
     }
 }
