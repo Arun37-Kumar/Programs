@@ -10,7 +10,13 @@ namespace RFP_131_BASIC_PROGRAMS
     {
         static void Main(string[] args)
         {
+            //Basic Programs
+
+            //Program1
             Basic_Programs.First_Program.FirstProgram();
+            Basic_Programs.calculations.Calculations();
+
+
         }
     }
 }
