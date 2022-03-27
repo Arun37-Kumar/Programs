@@ -15,6 +15,8 @@ namespace RFP_131_BASIC_PROGRAMS
             //Program1
             Basic_Programs.First_Program.FirstProgram();
             Basic_Programs.calculations.Calculations();
+            Basic_Programs.Increment_Decrement.increment_decrement();
+            Console.ReadLine();
 
 
         }
