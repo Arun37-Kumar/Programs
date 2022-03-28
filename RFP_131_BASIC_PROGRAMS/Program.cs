@@ -18,11 +18,14 @@ namespace RFP_131_BASIC_PROGRAMS
             Basic_Programs.Increment_Decrement.increment_decrement();
             Basic_Programs.Even_Odd.checkEvenOrOdd(34);
             Basic_Programs.Even_Odd.checkEvenOrOdd(33);
+            Basic_Programs.SumTrueOrFalse.Result();
             Console.ReadLine();
 
             // Sequence, Selection & Loop
            int SumOfNaturalNumbers = Sequence_Selection_Loop.NaturalNumberAddition.Add();
            Console.WriteLine(SumOfNaturalNumbers);
+            Sequence_Selection_Loop.FindTheMaximum findTheMax = new Sequence_Selection_Loop.FindTheMaximum();
+            findTheMax.findTheMaximum();
             Console.ReadLine();
         }
     }
