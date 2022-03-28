@@ -50,6 +50,7 @@
     <Compile Include="Basic Programs\SumTrueOrFalse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sequence_Selection_Loop\factorial.cs" />
     <Compile Include="Sequence_Selection_Loop\FindDay.cs" />
     <Compile Include="Sequence_Selection_Loop\FindTheMaximum.cs" />
     <Compile Include="Sequence_Selection_Loop\NaturalNumberAddition.cs" />

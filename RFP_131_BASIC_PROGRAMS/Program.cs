@@ -26,6 +26,7 @@ namespace RFP_131_BASIC_PROGRAMS
            Console.WriteLine(SumOfNaturalNumbers);
             Sequence_Selection_Loop.FindTheMaximum findTheMax = new Sequence_Selection_Loop.FindTheMaximum();
             findTheMax.findTheMaximum();
+            Sequence_Selection_Loop.factorial.factorialNumber();
             Console.ReadLine();
         }
     }
