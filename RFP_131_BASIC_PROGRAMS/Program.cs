@@ -23,6 +23,8 @@ namespace RFP_131_BASIC_PROGRAMS
             // Sequence, Selection & Loop
            int SumOfNaturalNumbers = Sequence_Selection_Loop.NaturalNumberAddition.Add();
            Console.WriteLine(SumOfNaturalNumbers);
+            Sequence_Selection_Loop.FindTheMaximum findTheMax = new Sequence_Selection_Loop.FindTheMaximum();
+            findTheMax.findTheMaximum();
             Console.ReadLine();
         }
     }
